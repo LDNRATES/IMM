@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[8]:
-
-
 import streamlit as st
 import datetime as dt
 import calendar as cl
